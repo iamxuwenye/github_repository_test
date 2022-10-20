@@ -1,0 +1,2 @@
+# github_repository_test
+这是github的测试仓库，尝试在idea中分享工程到github
